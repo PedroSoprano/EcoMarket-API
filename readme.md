@@ -81,7 +81,9 @@ Esse é o repositório com a API do Econo Market, o link base para a API é : ht
 ```json
 [
   {
+    "image": "https/:imagem",
     "name": "MELANCIA",
+    "dueDate": "10/07/2022",
     "categoria": "Outros",
     "description": "blablabla",
     "originalPrice": "2R$",
@@ -90,7 +92,9 @@ Esse é o repositório com a API do Econo Market, o link base para a API é : ht
     "id": 3
   },
   {
+    "image": "https/:imagem",
     "name": "banana",
+    "dueDate": "10/07/2022",
     "categoria": "Outros",
     "description": "blablabla",
     "originalPrice": "2R$",
@@ -99,6 +103,7 @@ Esse é o repositório com a API do Econo Market, o link base para a API é : ht
     "id": 5
   },
   {
+    "image": "https/:imagem",
     "name": "banana",
     "categoria": "Outros",
     "description": "blablabla",
@@ -128,6 +133,7 @@ Esse é o repositório com a API do Econo Market, o link base para a API é : ht
 {
 	"image": "https/:imagem",
 	"name": "Melão",
+    "dueDate":"10/07/2022",
     "categoria":"Outros",
 	"description": "blablabla",
 	"originalPrice": "2R$",
@@ -152,6 +158,7 @@ Esse é o repositório com a API do Econo Market, o link base para a API é : ht
 {
 	"image": "https/:imagem",
 	"name": "Melão",
+    "dueDate":"10/07/2022",
     "categoria":"Outros",
 	"description": "blablabla",
 	"originalPrice": "2R$",
@@ -206,6 +213,7 @@ Esse é o repositório com a API do Econo Market, o link base para a API é : ht
 {
 	"image": "https/:imagem",
 	"name": "MELÃO",
+    "dueDate":"10/07/2022",
     "categoria":"Outros",
 	"description": "blablabla",
 	"originalPrice": "2R$",
@@ -229,6 +237,7 @@ Esse é o repositório com a API do Econo Market, o link base para a API é : ht
 	{
 		"image": "https/:imagem",
 		"name": "banana",
+        "dueDate":"10/07/2022",
         "categoria":"Outros",
 		"description": "blablabla",
 		"originalPrice": "2R$",
@@ -253,6 +262,7 @@ Esse é o repositório com a API do Econo Market, o link base para a API é : ht
 {
 	"image": "https/:imagem",
 	"name": "banana",
+    "dueDate":"10/07/2022",
     "categoria":"Outros",
 	"description": "blablabla",
 	"originalPrice": "2R$",
@@ -295,6 +305,7 @@ Esse é o repositório com a API do Econo Market, o link base para a API é : ht
     {
       "image": "https/:imagem",
       "name": "banana",
+      "dueDate": "10/07/2022",
       "categoria": "Outros",
       "description": "blablabla",
       "originalPrice": "2R$",
@@ -336,6 +347,7 @@ Esse é o repositório com a API do Econo Market, o link base para a API é : ht
 {
   "image": "https/:imagem",
   "name": "banana",
+  "dueDate":"10/07/2022",
   "categoria":"Outros",
   "description": "blablabla",
   "originalPrice": "2R$",
@@ -358,6 +370,7 @@ Esse é o repositório com a API do Econo Market, o link base para a API é : ht
   {
     "image": "https/:imagem",
     "name": "banana",
+    "dueDate":"10/07/2022",
     "categoria":"Outros",
     "description": "blablabla",
     "originalPrice": "2R$",
@@ -374,6 +387,7 @@ Esse é o repositório com a API do Econo Market, o link base para a API é : ht
   {
     "image": "https/:imagem",
     "name": "banana",
+    "dueDate":"10/07/2022",
     "categoria":"Outros",
     "description": "blablabla",
     "originalPrice": "2R$",
@@ -399,6 +413,7 @@ Esse é o repositório com a API do Econo Market, o link base para a API é : ht
   {
     "image": "https/:imagem",
     "name": "banana",
+    "dueDate":"10/07/2022",
     "categoria":"Outros",
     "description": "blablabla",
     "originalPrice": "2R$",
