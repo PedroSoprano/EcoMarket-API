@@ -56,8 +56,11 @@ Esse é o repositório com a API do Econo Market, o link base para a API é : ht
 
 ```json
 {
-  "email": "teste3@gmail.com",
-  "password": "123456"
+	"accessToken": tokenGeradoPelaAPI,
+	"user": {
+		"email": "teste3@gmail.com",
+		"id": idGeradoPelaAPI
+	}
 }
 ```
 
