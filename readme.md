@@ -82,25 +82,28 @@ Esse é o repositório com a API do Econo Market, o link base para a API é : ht
 [
   {
     "name": "MELANCIA",
+    "categoria": "Outros",
     "description": "blablabla",
-    "original price": "2R$",
-    "promotional price": "1R$",
+    "originalPrice": "2R$",
+    "promotionalPrice": "1R$",
     "userId": 2,
     "id": 3
   },
   {
     "name": "banana",
+    "categoria": "Outros",
     "description": "blablabla",
-    "original price": "2R$",
-    "promotional price": "1R$",
+    "originalPrice": "2R$",
+    "promotionalPrice": "1R$",
     "userId": 2,
     "id": 5
   },
   {
     "name": "banana",
+    "categoria": "Outros",
     "description": "blablabla",
-    "original price": "2R$",
-    "promotional price": "1R$",
+    "originalPrice": "2R$",
+    "promotionalPrice": "1R$",
     "userId": 2,
     "id": 6
   }
@@ -125,6 +128,7 @@ Esse é o repositório com a API do Econo Market, o link base para a API é : ht
 {
 	"image": "https/:imagem",
 	"name": "Melão",
+    "categoria":"Outros",
 	"description": "blablabla",
 	"originalPrice": "2R$",
 	"promotionalPrice": "1R$",
@@ -148,6 +152,7 @@ Esse é o repositório com a API do Econo Market, o link base para a API é : ht
 {
 	"image": "https/:imagem",
 	"name": "Melão",
+    "categoria":"Outros",
 	"description": "blablabla",
 	"originalPrice": "2R$",
 	"promotionalPrice": "1R$",
@@ -201,6 +206,7 @@ Esse é o repositório com a API do Econo Market, o link base para a API é : ht
 {
 	"image": "https/:imagem",
 	"name": "MELÃO",
+    "categoria":"Outros",
 	"description": "blablabla",
 	"originalPrice": "2R$",
 	"promotionalPrice": "1R$",
@@ -223,6 +229,7 @@ Esse é o repositório com a API do Econo Market, o link base para a API é : ht
 	{
 		"image": "https/:imagem",
 		"name": "banana",
+        "categoria":"Outros",
 		"description": "blablabla",
 		"originalPrice": "2R$",
 		"promotionalPrice": "1R$",
@@ -246,6 +253,7 @@ Esse é o repositório com a API do Econo Market, o link base para a API é : ht
 {
 	"image": "https/:imagem",
 	"name": "banana",
+    "categoria":"Outros",
 	"description": "blablabla",
 	"originalPrice": "2R$",
 	"promotionalPrice": "1R$",
@@ -287,6 +295,7 @@ Esse é o repositório com a API do Econo Market, o link base para a API é : ht
     {
       "image": "https/:imagem",
       "name": "banana",
+      "categoria": "Outros",
       "description": "blablabla",
       "originalPrice": "2R$",
       "promotionalPrice": "1R$",
@@ -327,6 +336,7 @@ Esse é o repositório com a API do Econo Market, o link base para a API é : ht
 {
   "image": "https/:imagem",
   "name": "banana",
+  "categoria":"Outros",
   "description": "blablabla",
   "originalPrice": "2R$",
   "promotionalPrice": "1R$",
@@ -348,6 +358,7 @@ Esse é o repositório com a API do Econo Market, o link base para a API é : ht
   {
     "image": "https/:imagem",
     "name": "banana",
+    "categoria":"Outros",
     "description": "blablabla",
     "originalPrice": "2R$",
     "promotionalPrice": "1R$",
@@ -363,6 +374,7 @@ Esse é o repositório com a API do Econo Market, o link base para a API é : ht
   {
     "image": "https/:imagem",
     "name": "banana",
+    "categoria":"Outros",
     "description": "blablabla",
     "originalPrice": "2R$",
     "promotionalPrice": "1R$",
@@ -387,6 +399,7 @@ Esse é o repositório com a API do Econo Market, o link base para a API é : ht
   {
     "image": "https/:imagem",
     "name": "banana",
+    "categoria":"Outros",
     "description": "blablabla",
     "originalPrice": "2R$",
     "promotionalPrice": "1R$",
