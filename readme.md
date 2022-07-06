@@ -88,6 +88,7 @@ Esse é o repositório com a API do Econo Market, o link base para a API é : ht
     "description": "blablabla",
     "originalPrice": "2R$",
     "promotionalPrice": "1R$",
+    "quantity": 1,
     "userId": 2,
     "id": 3
   },
@@ -99,6 +100,7 @@ Esse é o repositório com a API do Econo Market, o link base para a API é : ht
     "description": "blablabla",
     "originalPrice": "2R$",
     "promotionalPrice": "1R$",
+    "quantity": 1,
     "userId": 2,
     "id": 5
   },
@@ -109,6 +111,7 @@ Esse é o repositório com a API do Econo Market, o link base para a API é : ht
     "description": "blablabla",
     "originalPrice": "2R$",
     "promotionalPrice": "1R$",
+    "quantity": 1,
     "userId": 2,
     "id": 6
   }
@@ -138,6 +141,7 @@ Esse é o repositório com a API do Econo Market, o link base para a API é : ht
 	"description": "blablabla",
 	"originalPrice": "2R$",
 	"promotionalPrice": "1R$",
+    "quantity": 1,
 	"userId": {idDoUsuário}
 }
 ```
@@ -163,6 +167,7 @@ Esse é o repositório com a API do Econo Market, o link base para a API é : ht
 	"description": "blablabla",
 	"originalPrice": "2R$",
 	"promotionalPrice": "1R$",
+    "quantity": 1,
 	"userId": idDoUsuário,
 	"id": idGeradoPelaAPI
 }
@@ -218,6 +223,7 @@ Esse é o repositório com a API do Econo Market, o link base para a API é : ht
 	"description": "blablabla",
 	"originalPrice": "2R$",
 	"promotionalPrice": "1R$",
+    "quantity": 1,
 	"userId": idDoUsuario,
 	"id": idDoProduto
 }
@@ -242,6 +248,7 @@ Esse é o repositório com a API do Econo Market, o link base para a API é : ht
 		"description": "blablabla",
 		"originalPrice": "2R$",
 		"promotionalPrice": "1R$",
+        "quantity": 1,
 		"userId": {idDoUsuario}
 	}
 ```
@@ -267,6 +274,7 @@ Esse é o repositório com a API do Econo Market, o link base para a API é : ht
 	"description": "blablabla",
 	"originalPrice": "2R$",
 	"promotionalPrice": "1R$",
+    "quantity": 1,
 	"userId": idDoUsuario,
     "id": idGeradoPelaAPI
 }
@@ -310,8 +318,9 @@ Esse é o repositório com a API do Econo Market, o link base para a API é : ht
       "description": "blablabla",
       "originalPrice": "2R$",
       "promotionalPrice": "1R$",
-      "userId": 1,
-      "id": 2
+      "quantity": 1,
+      "userId": idDoUsuario,
+      "id": idDoProduto
     }
   ]
 }
@@ -352,6 +361,7 @@ Esse é o repositório com a API do Econo Market, o link base para a API é : ht
   "description": "blablabla",
   "originalPrice": "2R$",
   "promotionalPrice": "1R$",
+  "quantity": 1,
   "sellerId": {sellerId},
   "userId": {userId}
 }
@@ -375,6 +385,7 @@ Esse é o repositório com a API do Econo Market, o link base para a API é : ht
     "description": "blablabla",
     "originalPrice": "2R$",
     "promotionalPrice": "1R$",
+    "quantity": 1,
     "sellerId": sellerId,
     "userId": userId,
     "id": idDoProduto
@@ -392,6 +403,7 @@ Esse é o repositório com a API do Econo Market, o link base para a API é : ht
     "description": "blablabla",
     "originalPrice": "2R$",
     "promotionalPrice": "1R$",
+    "quantity": 1,
     "sellerId": sellerId,
     "userId": userId,
     "id": idDoProduto,
@@ -418,6 +430,7 @@ Esse é o repositório com a API do Econo Market, o link base para a API é : ht
     "description": "blablabla",
     "originalPrice": "2R$",
     "promotionalPrice": "1R$",
+    "quantity": 1,
     "userId": userId,
     "id": idDoProduto,
   }
