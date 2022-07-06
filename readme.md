@@ -37,7 +37,7 @@ Esse é o repositório com a API do Econo Market
 
 #
 
-<h2 align ='center'> Cadastrando usuários </h2>
+<h2 align ='center'> Fazendo login </h2>
 
 #
 
