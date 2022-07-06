@@ -1,6 +1,6 @@
 # Econo Market API
 
-Esse é o repositório com a API do Econo Market
+Esse é o repositório com a API do Econo Market, o link base para a API é : https://ecomarketapi.herokuapp.com
 
 ## Endpoints
 
