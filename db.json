@@ -4,7 +4,7 @@
       "name": "João",
       "email": "consumidor@gmail.com",
       "cpf": "98767876543",
-      "password": 123456
+      "password": "123456"
     },
     {
       "name": "Maria",
@@ -17,7 +17,7 @@
         "cidade": "São Paulo",
         "estado": "São Paulo"
       },
-      "password": 123456
+      "password": "123456"
     }
   ],
   "products": [
