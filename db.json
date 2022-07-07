@@ -1,6 +1,123 @@
 {
-  "users": [],
-  "products": [],
+  "users": [
+    {
+      "name": "João",
+      "email": "consumidor@gmail.com",
+      "cpf": "98767876543",
+      "password": 123456
+    },
+    {
+      "name": "Maria",
+      "email": "comerciante@gmail.com",
+      "cnpj": "78808998543",
+      "adress": {
+        "rua": "rua 21",
+        "numero": 41,
+        "bairro": "Mar",
+        "cidade": "São Paulo",
+        "estado": "São Paulo"
+      },
+      "password": 123456
+    }
+  ],
+  "products": [
+    {
+      "image": "https://batavo.com.br/wp-content/uploads/2016/10/Iogurte-Pedacos-Morango-copo-500g-2.png",
+      "name": "Iorgute com fruta",
+      "dueDate": "16/07/2022",
+      "category": "Laticínios",
+      "description": "Nosso Iogurte Batavo Pedaços de Morango tem 10 vezes mais frutas! São pedaços de frutas de verdade, que misturados ao tradicional Iogute Batavo, ficam ainda mais gostosos e você encontra no tamanho ideal para os momentos em família!",
+      "originalPrice": "R$ 5",
+      "promotionalPrice": "R$ 2,50",
+      "quantity": 4,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "image": "https://trimais.vteximg.com.br/arquivos/ids/1008192-1000-1000/foto_original.jpg?v=637395834972830000",
+      "name": "Macarrão Barilla",
+      "dueDate": "14/07/2022",
+      "category": "Massas",
+      "description": "A Massa com Ovos Barilla é macia e fica soltinha, sem necessidade de colocar óleo na água.",
+      "originalPrice": "R$ 6",
+      "promotionalPrice": "R$ 3",
+      "quantity": 10,
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "image": "https://fornodeminas.com.br/wp-content/uploads/2017/08/20.07.0001-Pa%CC%83o-de-Queijo-Tradicional-Varejo-400g-1-1.png",
+      "name": "Pão de queijo",
+      "dueDate": "13/07/2022",
+      "category": "Farináceos",
+      "description": "Ninguém recusa um Pão de Queijo Forno de Minas saindo quentinho do forno!.",
+      "originalPrice": "R$ 18",
+      "promotionalPrice": "R$ 9",
+      "quantity": 6,
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "image": "https://media.cotabest.com.br/media/sku/leite-integral-tetra-pak-1litro-piracanjuba-un.png",
+      "name": "Leite integral 1L",
+      "dueDate": "15/07/2022",
+      "category": "Laticínios",
+      "description": "O leite Piracanjuba é único! Repleto de nutrientes necessários para uma alimentação saudável, é saboroso e de qualidade.",
+      "originalPrice": "R$ 6",
+      "promotionalPrice": "R$ 3",
+      "quantity": 2,
+      "userId": 1,
+      "id": 4
+    },
+    {
+      "image": "https://trimais.vteximg.com.br/arquivos/ids/1028586-1000-1000/foto_original.jpg?v=637711162195630000",
+      "name": "Arroz Branco 1Kg",
+      "dueDate": "16/07/2022",
+      "category": "Grãos",
+      "description": "Arroz Branco Camil é muito fácil de fazer, não precisa lavar e sempre fica branquinho e soltinho, pois é selecionado eletronicamente.",
+      "originalPrice": "R$ 7",
+      "promotionalPrice": "R$ 3,50",
+      "quantity": 6,
+      "userId": 1,
+      "id": 5
+    },
+    {
+      "image": "https://www.camil.com.br/wp-content/uploads/sites/12/2020/06/1582828742-mkp-feijao-preto-1kg-3.png",
+      "name": "Feijão preto 1Kg",
+      "dueDate": "12/07/2022",
+      "category": "Grãos",
+      "description": "É hora de conhecer o Feijão Preto Camil e engrossar esse caldo com sabor e um toque de carinho e cuidado em todos os momentos ao redor da mesa.",
+      "originalPrice": "R$ 9",
+      "promotionalPrice": "R$ 4,50",
+      "quantity": 7,
+      "userId": 1,
+      "id": 6
+    },
+    {
+      "image": "https://www.liza.com.br/images/produtos/soja/soja.png",
+      "name": "Óleo de soja 900ml",
+      "dueDate": "12/07/2022",
+      "category": "Óleos",
+      "description": "O tradicional Liza Soja é cinco vezes extra filtrado, feito a partir do grão da soja. É fonte de vitamina E, além de ser uma ótima opção para todas as receitas.",
+      "originalPrice": "R$ 12",
+      "promotionalPrice": "R$ 6",
+      "quantity": 11,
+      "userId": 1,
+      "id": 7
+    },
+    {
+      "image": "https://trimais.vteximg.com.br/arquivos/ids/1006912-1000-1000/foto_original.jpg?v=637395822110170000",
+      "name": "Farinha de trigo 1Kg",
+      "dueDate": "14/07/2022",
+      "category": "Farináceos",
+      "description": "A Farinha de Trigo Dona Benta é enriquecida com ferro e ácido fólico e ajuda você a preparar receitas para toda a família: pães, bolos, pizzas, etc.",
+      "originalPrice": "R$ 7",
+      "promotionalPrice": "R$ 4,50",
+      "quantity": 5,
+      "userId": 1,
+      "id": 8
+    }
+  ],
   "wishlist": [],
   "reserved": []
 }
