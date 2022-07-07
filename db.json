@@ -1,14 +1,16 @@
 {
   "users": [
     {
-      "name": "João",
       "email": "consumidor@gmail.com",
+      "password": "$2a$10$rLE7LQZh6ueF5HkPcPi.RutBJ98Q/LKGpPxpt5Qqej7GUv95NPEgO",
+      "name": "João",
       "cpf": "98767876543",
-      "password": "123456"
+      "id": 1
     },
     {
-      "name": "Maria",
       "email": "comerciante@gmail.com",
+      "password": "$2a$10$qPZx/5Il4JSV7OEemw4ys.yNupfp2Y6Jh/miDKe7R6XGnsIWN5Kda",
+      "name": "Maria",
       "cnpj": "78808998543",
       "adress": {
         "rua": "rua 21",
@@ -17,7 +19,7 @@
         "cidade": "São Paulo",
         "estado": "São Paulo"
       },
-      "password": "123456"
+      "id": 2
     }
   ],
   "products": [
