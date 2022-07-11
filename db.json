@@ -20,6 +20,48 @@
         "estado": "São Paulo"
       },
       "id": 2
+    },
+    {
+      "email": "consumidor2@gmail.com",
+      "password": "$2a$10$ckUT0ZhoYmtcI4ER91MBmui71rNhKdBKsfuUaygodoeDr/yLesRrS",
+      "name": "John Petrucci",
+      "cpf": "01234567890",
+      "id": 3
+    },
+    {
+      "email": "consumidor3@gmail.com",
+      "password": "$2a$10$4f1HS9/Tr..DLnhnEvraGOOTKB4w05kZm/DQn4n7tvXhrHGWnUp2m",
+      "name": "John Myung",
+      "cpf": "12345678910",
+      "id": 4
+    },
+    {
+      "email": "comerciante2@gmail.com",
+      "password": "$2a$10$fQDfCT79WHcvFQY.tCF6zek0hO/n6hcraIxy/XzWEhuuiSvDm0h6q",
+      "name": "Supermercado Metropolis",
+      "cnpj": "11234567000190",
+      "adress": {
+        "rua": "Rua Gonçalves Dias",
+        "numero": 603,
+        "bairro": "Funcionários",
+        "cidade": "Belo Horizonte",
+        "estado": "MG"
+      },
+      "id": 5
+    },
+    {
+      "email": "comerciante3@gmail.com",
+      "password": "$2a$10$CgcNkVz2ttxU.Z4xqfrrdeY1VZ2apkD0HyGIG1rBbNfn0cr/mZk1y",
+      "name": "Mercado dos Sonhos",
+      "cnpj": "99876543000121",
+      "adress": {
+        "rua": "Avenida Nossa Senhora de Copacabana",
+        "numero": 1017,
+        "bairro": "Copacabana",
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ"
+      },
+      "id": 6
     }
   ],
   "products": [
