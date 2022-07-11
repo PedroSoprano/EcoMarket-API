@@ -29,10 +29,10 @@
       "dueDate": "16/07/2022",
       "category": "Laticínios",
       "description": "Nosso Iogurte Batavo Pedaços de Morango tem 10 vezes mais frutas! São pedaços de frutas de verdade, que misturados ao tradicional Iogute Batavo, ficam ainda mais gostosos e você encontra no tamanho ideal para os momentos em família!",
-      "originalPrice": "R$ 5",
-      "promotionalPrice": "R$ 2,50",
+      "originalPrice": 5,
+      "promotionalPrice": 2.5,
       "quantity": 4,
-      "userId": 1,
+      "userId": 2,
       "id": 1
     },
     {
@@ -41,10 +41,10 @@
       "dueDate": "14/07/2022",
       "category": "Massas",
       "description": "A Massa com Ovos Barilla é macia e fica soltinha, sem necessidade de colocar óleo na água.",
-      "originalPrice": "R$ 6",
-      "promotionalPrice": "R$ 3",
+      "originalPrice": 6,
+      "promotionalPrice": 3,
       "quantity": 10,
-      "userId": 1,
+      "userId": 2,
       "id": 2
     },
     {
@@ -53,10 +53,10 @@
       "dueDate": "13/07/2022",
       "category": "Farináceos",
       "description": "Ninguém recusa um Pão de Queijo Forno de Minas saindo quentinho do forno!.",
-      "originalPrice": "R$ 18",
-      "promotionalPrice": "R$ 9",
+      "originalPrice": 18,
+      "promotionalPrice": 9,
       "quantity": 6,
-      "userId": 1,
+      "userId": 2,
       "id": 3
     },
     {
@@ -65,10 +65,10 @@
       "dueDate": "15/07/2022",
       "category": "Laticínios",
       "description": "O leite Piracanjuba é único! Repleto de nutrientes necessários para uma alimentação saudável, é saboroso e de qualidade.",
-      "originalPrice": "R$ 6",
-      "promotionalPrice": "R$ 3",
+      "originalPrice": 6,
+      "promotionalPrice": 3,
       "quantity": 2,
-      "userId": 1,
+      "userId": 2,
       "id": 4
     },
     {
@@ -77,10 +77,10 @@
       "dueDate": "16/07/2022",
       "category": "Grãos",
       "description": "Arroz Branco Camil é muito fácil de fazer, não precisa lavar e sempre fica branquinho e soltinho, pois é selecionado eletronicamente.",
-      "originalPrice": "R$ 7",
-      "promotionalPrice": "R$ 3,50",
+      "originalPrice": 7,
+      "promotionalPrice": 3.5,
       "quantity": 6,
-      "userId": 1,
+      "userId": 2,
       "id": 5
     },
     {
@@ -89,10 +89,10 @@
       "dueDate": "12/07/2022",
       "category": "Grãos",
       "description": "É hora de conhecer o Feijão Preto Camil e engrossar esse caldo com sabor e um toque de carinho e cuidado em todos os momentos ao redor da mesa.",
-      "originalPrice": "R$ 9",
-      "promotionalPrice": "R$ 4,50",
+      "originalPrice": 9,
+      "promotionalPrice": 4.5,
       "quantity": 7,
-      "userId": 1,
+      "userId": 2,
       "id": 6
     },
     {
@@ -101,10 +101,10 @@
       "dueDate": "12/07/2022",
       "category": "Óleos",
       "description": "O tradicional Liza Soja é cinco vezes extra filtrado, feito a partir do grão da soja. É fonte de vitamina E, além de ser uma ótima opção para todas as receitas.",
-      "originalPrice": "R$ 12",
-      "promotionalPrice": "R$ 6",
+      "originalPrice": 12,
+      "promotionalPrice": 6,
       "quantity": 11,
-      "userId": 1,
+      "userId": 2,
       "id": 7
     },
     {
@@ -113,10 +113,10 @@
       "dueDate": "14/07/2022",
       "category": "Farináceos",
       "description": "A Farinha de Trigo Dona Benta é enriquecida com ferro e ácido fólico e ajuda você a preparar receitas para toda a família: pães, bolos, pizzas, etc.",
-      "originalPrice": "R$ 7",
-      "promotionalPrice": "R$ 4,50",
+      "originalPrice": 7,
+      "promotionalPrice": 4.5,
       "quantity": 5,
-      "userId": 1,
+      "userId": 2,
       "id": 8
     }
   ],
